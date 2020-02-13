@@ -1,0 +1,46 @@
+.nipria {
+    border: 1px solid pink;
+    background-color: pink;
+    font-size: 16px;
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+
+}
+
+img {
+    height: 280px;
+    text-align: center;
+}
+.dress{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.pick {
+    height: 250px;
+}
+button{
+    background:url("https://thumbs.gfycat.com/FearfulPoliticalGonolek-small.gif");
+    padding:4pc;
+    color:white;
+    
+    
+}
+p{
+        font-family: 'Crimson Text', serif;
+    text-align: center;
+
+}
+.nipria {
+    border: 1px solid pink;
+    background-color: pink;
+    font-size: 16px;
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+}
+
+.d {
+    display: flex;
+    justify-content: space-around;
+    background-color: purple;
+}
